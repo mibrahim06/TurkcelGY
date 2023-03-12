@@ -1,3 +1,3 @@
 # TurkcellGY-Homeworks
 
-Instructor: [Türkay Ürkmez](https://www.turkayurkmez.com)
+Instructor: [Türkay Ürkmez](https://github.com/turkayurkmez)
