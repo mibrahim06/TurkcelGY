@@ -1,0 +1,15 @@
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/bin/Debug/net7.0/Interface
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/bin/Debug/net7.0/Interface.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/Interface.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Interface/obj/Debug/net7.0/ref/Interface.dll
