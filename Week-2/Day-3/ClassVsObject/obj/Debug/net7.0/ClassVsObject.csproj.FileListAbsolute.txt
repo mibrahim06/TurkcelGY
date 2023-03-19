@@ -1,0 +1,15 @@
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/bin/Debug/net7.0/ClassVsObject
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/bin/Debug/net7.0/ClassVsObject.deps.json
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/bin/Debug/net7.0/ClassVsObject.runtimeconfig.json
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/bin/Debug/net7.0/ClassVsObject.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/bin/Debug/net7.0/ClassVsObject.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ClassVsObject.csproj.AssemblyReference.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ClassVsObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ClassVsObject.AssemblyInfoInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ClassVsObject.AssemblyInfo.cs
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ClassVsObject.csproj.CoreCompileInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ClassVsObject.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/refint/ClassVsObject.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ClassVsObject.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ClassVsObject.genruntimeconfig.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/ClassVsObject/obj/Debug/net7.0/ref/ClassVsObject.dll
