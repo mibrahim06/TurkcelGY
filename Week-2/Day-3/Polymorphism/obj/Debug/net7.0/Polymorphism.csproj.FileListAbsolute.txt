@@ -1,0 +1,15 @@
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.AssemblyReference.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfo.cs
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/bin/Debug/net7.0/Polymorphism
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/bin/Debug/net7.0/Polymorphism.deps.json
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/bin/Debug/net7.0/Polymorphism.runtimeconfig.json
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/bin/Debug/net7.0/Polymorphism.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/bin/Debug/net7.0/Polymorphism.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/Polymorphism.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/refint/Polymorphism.dll
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/Polymorphism.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/Polymorphism.genruntimeconfig.cache
+/Users/musibra/Desktop/Turkcell/Homeworks/Week-2/Day-3/OOP-Overview/Polymorphism/obj/Debug/net7.0/ref/Polymorphism.dll
