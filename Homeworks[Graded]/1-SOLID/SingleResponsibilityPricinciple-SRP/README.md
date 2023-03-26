@@ -15,3 +15,5 @@ In this example, I created a simple simulation of the item buying and selling me
 1- Item: Represents the item objects in the game. 
 2- ItemShop: Manages the buying and selling of items. 
 3- Database: Handles data management.
+
+![Output](output.png)
