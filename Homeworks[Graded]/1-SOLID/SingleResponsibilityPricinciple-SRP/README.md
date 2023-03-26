@@ -10,4 +10,3 @@ Why that principle exists?
 - To make our classes more reusable and create more flexible and maintainable code.
 - To make our code more readable and understandable. Fewer responsibilities mean fewer dependencies. 
 - To make our code more testable. 
-- 
