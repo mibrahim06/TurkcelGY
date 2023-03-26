@@ -1,0 +1,15 @@
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/bin/Debug/net7.0/SingleResponsibilityPricinciple-SRP
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/bin/Debug/net7.0/SingleResponsibilityPricinciple-SRP.deps.json
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/bin/Debug/net7.0/SingleResponsibilityPricinciple-SRP.runtimeconfig.json
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/bin/Debug/net7.0/SingleResponsibilityPricinciple-SRP.dll
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/bin/Debug/net7.0/SingleResponsibilityPricinciple-SRP.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/SingleResponsibilityPricinciple-SRP.csproj.AssemblyReference.cache
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/SingleResponsibilityPricinciple-SRP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/SingleResponsibilityPricinciple-SRP.AssemblyInfoInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/SingleResponsibilityPricinciple-SRP.AssemblyInfo.cs
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/SingleResponsibilityPricinciple-SRP.csproj.CoreCompileInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/SingleResponsibilityPricinciple-SRP.dll
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/refint/SingleResponsibilityPricinciple-SRP.dll
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/SingleResponsibilityPricinciple-SRP.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/SingleResponsibilityPricinciple-SRP.genruntimeconfig.cache
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/1-SOLID/SingleResponsibilityPricinciple-SRP/SingleResponsibilityPricinciple-SRP/obj/Debug/net7.0/ref/SingleResponsibilityPricinciple-SRP.dll
