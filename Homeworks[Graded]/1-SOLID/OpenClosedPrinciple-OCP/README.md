@@ -8,3 +8,5 @@ In this particular example, our objective is to effectively illustrate the Open/
 However, the true power of the Open/Closed Principle lies in its flexibility and adaptability, allowing for the seamless integration of additional item types as needed. For example, if one were to expand the range of items in this factory to include helmets or boots, it could be accomplished without difficulty. This is due to the well-structured nature of the code, which adheres to the Open/Closed Principle, ensuring that the item factory remains both maintainable and extensible.
 
 By employing the Open/Closed Principle in this example, we are not only able to demonstrate its practical application but also showcase its ability to improve the overall design of software systems. This principle encourages developers to create code that is both robust and flexible, enabling them to easily adapt to changing requirements and evolving needs.
+
+![Output](output.png)
