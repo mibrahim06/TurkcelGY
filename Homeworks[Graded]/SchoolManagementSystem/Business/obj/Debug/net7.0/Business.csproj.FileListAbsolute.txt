@@ -1,0 +1,15 @@
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/bin/Debug/net7.0/Business
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/bin/Debug/net7.0/Business.deps.json
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/bin/Debug/net7.0/Business.runtimeconfig.json
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/bin/Debug/net7.0/Business.dll
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/bin/Debug/net7.0/Business.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/Business.dll
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/Business.pdb
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/Business.genruntimeconfig.cache
+/Users/musibra/Desktop/Turkcell/Homeworks[Graded]/Business/Business/obj/Debug/net7.0/ref/Business.dll
